@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksumit141&label=Profile%20views&color=0e75b6&style=flat" alt="sksumit141" /> </p>
 
-- 🔭 I’m currently working on **a smart quiz system**
+- 🔭 I’m currently working on **Scoobyz**
 
-- 🌱 I’m currently learning **Devops,Electron and GSAP**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 📫 How to reach me **singhksumit2004@gmail.com**
 
